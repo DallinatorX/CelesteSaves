@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<ModSaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LevelSets>
+    <LevelSetStats Name="Celeste">
+      <Areas />
+      <Poem />
+      <UnlockedAreas>3</UnlockedAreas>
+      <TotalStrawberries>0</TotalStrawberries>
+    </LevelSetStats>
+  </LevelSets>
+  <LevelSetRecycleBin />
+  <LastArea_Safe ID="3" Mode="Normal" SID="Celeste/3-CelestialResort" />
+  <CurrentSession_Safe Level="roof03" Time="2654550000" StartedFromBeginning="false" Deaths="27" Dashes="65" DashesAtLevelStart="65" DeathsInCurrentLevel="6" InArea="true" StartCheckpoint="09-d" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
+    <Area ID="3" Mode="Normal" SID="Celeste/3-CelestialResort" />
+    <RespawnPoint>
+      <X>3472</X>
+      <Y>-704</Y>
+    </RespawnPoint>
+    <Audio>
+      <Music Event="event:/music/lvl3/oshiro_chase">
+        <Parameters>
+          <MEP Key="layer1" Value="1" />
+          <MEP Key="layer2" Value="1" />
+          <MEP Key="layer3" Value="1" />
+          <MEP Key="layer4" Value="1" />
+          <MEP Key="layer6" Value="0" />
+        </Parameters>
+      </Music>
+      <Ambience Event="event:/env/amb/03_exterior">
+        <Parameters />
+      </Ambience>
+    </Audio>
+    <Inventory>
+      <Dashes>1</Dashes>
+      <DreamDash>true</DreamDash>
+      <Backpack>true</Backpack>
+      <NoRefills>false</NoRefills>
+    </Inventory>
+    <Flags>
+      <string>oshiro_breakdown</string>
+      <string>oshiro_resort_suite</string>
+      <string>oshiro_resort_roof</string>
+    </Flags>
+    <LevelFlags>
+      <string>09-d</string>
+      <string>08-d</string>
+      <string>06-d</string>
+      <string>04-d</string>
+      <string>04-c</string>
+      <string>02-c</string>
+      <string>01-c</string>
+      <string>02-d</string>
+      <string>00-d</string>
+      <string>roof00</string>
+      <string>roof01</string>
+      <string>roof02</string>
+      <string>roof03</string>
+    </LevelFlags>
+    <Strawberries />
+    <DoNotLoad>
+      <EntityID Key="02-c:1" />
+      <EntityID Key="04-c:17" />
+      <EntityID Key="00-d:6" />
+    </DoNotLoad>
+    <Keys />
+    <Counters />
+    <SummitGems>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </SummitGems>
+    <OldStats ID="3" Cassette="false" SID="Celeste/3-CelestialResort">
+      <Modes>
+        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="53" TimePlayed="6346440000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+          <Strawberries />
+          <Checkpoints>
+            <string>08-a</string>
+            <string>09-d</string>
+          </Checkpoints>
+        </AreaModeStats>
+        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+          <Strawberries />
+          <Checkpoints />
+        </AreaModeStats>
+        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+          <Strawberries />
+          <Checkpoints />
+        </AreaModeStats>
+      </Modes>
+    </OldStats>
+    <UnlockedCSide>false</UnlockedCSide>
+    <FurthestSeenLevel>roof03</FurthestSeenLevel>
+    <BeatBestTime>false</BeatBestTime>
+  </CurrentSession_Safe>
+</ModSaveData>

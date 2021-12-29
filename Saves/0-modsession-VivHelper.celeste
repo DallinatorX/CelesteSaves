@@ -1,0 +1,125 @@
+AlwaysBreakDashBlockDash: 0
+Blackout: false
+savedCBDController: 
+savedHBController: 
+HasSpeedPower: false
+CanAddSpeed: false
+StoredSpeed:
+  X: 0
+  Y: 0
+Facing: Right
+dashCount: 0
+staminaCount: 110
+ShowIndicator: true
+PreviousLevel: 09
+CollectedCoins: {}
+lockCamera: 0
+LevelInfoCache:
+  00:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  00b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  00b_FILLER:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  01:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  01_FILLER:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  02:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  02_FILLER:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  03:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  03_FILLER:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  04:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  04_FILLER:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  04b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  05:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  05_FILLER:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  06:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  06_FILLER:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  07:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  07_FILLER:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  08:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  08_FILLER:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  08b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  08c:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  08c_FILLER:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  09:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  09_FILLER:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  10:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  11:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  12:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  13:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  14:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  14_FILLER:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  14b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  15:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  15_FILLER:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  16:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+DebrisLimiter: 0
+TeleportState: false
+PausedRetryCheck: false

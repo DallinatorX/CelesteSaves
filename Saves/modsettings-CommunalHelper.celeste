@@ -1,0 +1,17 @@
+AlwaysActiveDreamRefillCharge: false
+ActivateSyncedZipMovers:
+  Buttons:
+  - RightShoulder
+  Keys:
+  - Z
+AllowActivateRebinding: false
+CycleCassetteBlocks:
+  Buttons:
+  - RightShoulder
+  Keys:
+  - Z
+ActivateFlagController:
+  Buttons:
+  - RightShoulder
+  Keys:
+  - Z

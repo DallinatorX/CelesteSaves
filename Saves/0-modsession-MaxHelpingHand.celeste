@@ -1,0 +1,15 @@
+ActiveSpeedBasedMusicParams: {}
+RainbowSpinnerCurrentColors: 
+SeekerBarrierCurrentColors: 
+GlassBlockCurrentSettings:
+  StarColors: FF77D8,8377D8
+  BgColor: 180044
+  Wavy: true
+GradientDustImagePath: 
+GradientDustScrollSpeed: 0
+CameraCatchupSpeed: 
+MadelineIsSilhouette: false
+AmbienceVolume: 1
+IcePhysicsDisabled: false
+CollectedMultiRoomStrawberrySeeds: []
+MadelineHasPonytail: false
