@@ -1,10 +1,10 @@
 WantsToBeConnected: true
 AutoReconnect: true
 Server: celeste.0x0a.de
-Name: Guest
+Name: '#0931e10574e1433c'
 ConnectionType: Auto
 DevLogLevel: INF
-Interactions: true
+Interactions: false
 Sounds: ON
 Entities: ON
 PlayerListMode: Channels

@@ -102,7 +102,6 @@
   <Grab>
     <Keyboard>
       <Keys>Z</Keys>
-      <Keys>V</Keys>
       <Keys>LeftShift</Keys>
     </Keyboard>
     <Controller>
