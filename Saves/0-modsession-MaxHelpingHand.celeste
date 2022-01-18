@@ -1,10 +1,7 @@
 ActiveSpeedBasedMusicParams: {}
 RainbowSpinnerCurrentColors: 
 SeekerBarrierCurrentColors: 
-GlassBlockCurrentSettings:
-  StarColors: FF77D8,8377D8
-  BgColor: 180044
-  Wavy: true
+GlassBlockCurrentSettings: 
 GradientDustImagePath: 
 GradientDustScrollSpeed: 0
 CameraCatchupSpeed: 

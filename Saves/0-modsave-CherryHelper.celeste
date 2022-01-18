@@ -1,3 +1,5 @@
 allSavedFlagsData:
 - campaignId: Celeste
   savedFlags: {}
+- campaignId: onemap/coffe
+  savedFlags: {}

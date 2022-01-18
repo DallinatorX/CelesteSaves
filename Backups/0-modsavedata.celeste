@@ -91,7 +91,7 @@
       <Areas>
         <AreaStats ID="15" Cassette="false" SID="onemap/coffe/map">
           <Modes>
-            <AreaModeStats TotalStrawberries="1" Completed="true" SingleRunCompleted="false" FullClear="false" Deaths="944" TimePlayed="90978730000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="true">
+            <AreaModeStats TotalStrawberries="1" Completed="true" SingleRunCompleted="false" FullClear="false" Deaths="1004" TimePlayed="97910990000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="true">
               <Strawberries>
                 <EntityID Key="08b:2382" />
               </Strawberries>
@@ -118,9 +118,9 @@
     </LevelSetStats>
     <LevelSetStats Name="trlt/xolimono">
       <Areas>
-        <AreaStats ID="16" Cassette="false" SID="trlt/xolimono/trlt">
+        <AreaStats ID="16" Cassette="true" SID="trlt/xolimono/trlt">
           <Modes>
-            <AreaModeStats TotalStrawberries="6" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="161" TimePlayed="15439060000" BestTime="15035990000" BestFullClearTime="0" BestDashes="194" BestDeaths="161" HeartGem="false">
+            <AreaModeStats TotalStrawberries="9" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="213" TimePlayed="21563480000" BestTime="15035990000" BestFullClearTime="0" BestDashes="194" BestDeaths="161" HeartGem="false">
               <Strawberries>
                 <EntityID Key="trlt-01b:3177" />
                 <EntityID Key="trlt-04a:3303" />
@@ -128,6 +128,9 @@
                 <EntityID Key="trlt-12c:3616" />
                 <EntityID Key="trlt-15b:4251" />
                 <EntityID Key="trlt-end01b:3851" />
+                <EntityID Key="trlt-03b:803" />
+                <EntityID Key="trlt-04:2111" />
+                <EntityID Key="trlt-08a:3570" />
               </Strawberries>
               <Checkpoints>
                 <string>trlt-06</string>
@@ -148,52 +151,53 @@
       </Areas>
       <Poem />
       <UnlockedAreas>0</UnlockedAreas>
-      <TotalStrawberries>6</TotalStrawberries>
+      <TotalStrawberries>9</TotalStrawberries>
     </LevelSetStats>
   </LevelSets>
   <LevelSetRecycleBin />
-  <LastArea_Safe ID="15" Mode="Normal" SID="onemap/coffe/map" />
-  <CurrentSession_Safe Level="08" Time="4521150000" StartedFromBeginning="false" Deaths="50" Dashes="24" DashesAtLevelStart="24" DeathsInCurrentLevel="1" InArea="true" StartCheckpoint="08c" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="OMC/aether" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
-    <Area ID="15" Mode="Normal" SID="onemap/coffe/map" />
+  <LastArea_Safe ID="16" Mode="Normal" SID="trlt/xolimono/trlt" />
+  <CurrentSession_Safe Level="trlt-08a" Time="2356710000" StartedFromBeginning="false" Deaths="21" Dashes="37" DashesAtLevelStart="36" DeathsInCurrentLevel="0" InArea="false" StartCheckpoint="trlt-06" FirstLevel="false" Cassette="true" HeartGem="false" Dreaming="false" ColorGrade="colorsm/xoli/trltcolors" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
+    <Area ID="16" Mode="Normal" SID="trlt/xolimono/trlt" />
     <RespawnPoint>
-      <X>5200</X>
-      <Y>-2608</Y>
+      <X>6560</X>
+      <Y>-160</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/neozoid_OMC/silver_lining_layered">
+      <Music Event="event:/xoli">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
           <MEP Key="layer3" Value="1" />
           <MEP Key="layer4" Value="1" />
-          <MEP Key="progress" Value="3" />
           <MEP Key="layer6" Value="0" />
         </Parameters>
       </Music>
-      <Ambience Event="event:/new_content/env/10_rain">
+      <Ambience Event="event:/env/amb/06_main">
         <Parameters />
       </Ambience>
     </Audio>
     <Inventory>
-      <Dashes>2</Dashes>
+      <Dashes>1</Dashes>
       <DreamDash>true</DreamDash>
       <Backpack>true</Backpack>
       <NoRefills>false</NoRefills>
     </Inventory>
     <Flags>
-      <string>flag_got_08b_berry</string>
+      <string>collected_seeds_of_trlt-08a:3570</string>
     </Flags>
     <LevelFlags>
-      <string>08c</string>
-      <string>08</string>
-      <string>08b</string>
+      <string>trlt-06</string>
+      <string>trlt-07</string>
+      <string>trlt-08</string>
+      <string>trlt-08a</string>
+      <string>trlt-08c</string>
     </LevelFlags>
     <Strawberries>
-      <EntityID Key="08b:2382" />
+      <EntityID Key="trlt-08a:3570" />
     </Strawberries>
     <DoNotLoad>
-      <EntityID Key="08:3539" />
-      <EntityID Key="08b:2382" />
+      <EntityID Key="trlt-08a:3570" />
+      <EntityID Key="trlt-08a:3610" />
     </DoNotLoad>
     <Keys />
     <Counters />
@@ -205,12 +209,23 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="15" Cassette="false" SID="onemap/coffe/map">
+    <OldStats ID="16" Cassette="false" SID="trlt/xolimono/trlt">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="false" FullClear="false" Deaths="894" TimePlayed="86451460000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="true">
-          <Strawberries />
+        <AreaModeStats TotalStrawberries="8" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="189" TimePlayed="18896690000" BestTime="15035990000" BestFullClearTime="0" BestDashes="194" BestDeaths="161" HeartGem="false">
+          <Strawberries>
+            <EntityID Key="trlt-01b:3177" />
+            <EntityID Key="trlt-04a:3303" />
+            <EntityID Key="trlt-12b:3492" />
+            <EntityID Key="trlt-12c:3616" />
+            <EntityID Key="trlt-15b:4251" />
+            <EntityID Key="trlt-end01b:3851" />
+            <EntityID Key="trlt-03b:803" />
+            <EntityID Key="trlt-04:2111" />
+          </Strawberries>
           <Checkpoints>
-            <string>08c</string>
+            <string>trlt-06</string>
+            <string>trlt-09</string>
+            <string>trlt-17a</string>
           </Checkpoints>
         </AreaModeStats>
         <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
@@ -224,7 +239,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>08b</FurthestSeenLevel>
+    <FurthestSeenLevel>trlt-08c</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </ModSaveData>

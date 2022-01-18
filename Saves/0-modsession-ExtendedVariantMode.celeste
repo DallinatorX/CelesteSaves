@@ -1,6 +1,5 @@
-VariantsEnabledViaTrigger:
-  DashTrailAllTheTime: 1
+VariantsEnabledViaTrigger: {}
 TriggerColorGrade: 
 ExtendedVariantsWereUsed: false
-DashCountOnLatestRespawn: 2
+DashCountOnLatestRespawn: 1
 ExtendedVariantsDisplayedOnScreenViaTrigger: false
