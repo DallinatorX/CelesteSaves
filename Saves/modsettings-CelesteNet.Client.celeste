@@ -6,8 +6,11 @@ ConnectionType: Auto
 DevLogLevel: INF
 Interactions: false
 Sounds: ON
+SoundVolume: 8
 Entities: ON
 PlayerListMode: Channels
+ShowPlayerListLocations: ON
+PlayerListShortenRandomizer: true
 ShowNewMessages: All
 PlayerOpacity: 4
 NameOpacity: 4

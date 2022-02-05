@@ -1,0 +1,83 @@
+StartCounter: 6
+BestTimes:
+  107192304: 2009740000
+BestSetSeedTimes: {}
+BestRandomSeedTimes: {}
+CurrentVersion: 0.7.7
+SavedSettings:
+  SeedType: Random
+  Seed: gkq4g1
+  Rules: ''
+  RepeatRooms: false
+  EnterUnknown: false
+  SpawnGolden: false
+  Variants: true
+  RandomDecorations: true
+  RandomColors: true
+  RandomBackgrounds: true
+  EndlessLives: 3
+  Algorithm: Pathway
+  Length: Short
+  Dashes: One
+  Difficulty: Hard
+  DifficultyEagerness: Low
+  Lights: Hubs
+  Darkness: Vanilla
+  Strawberries: Low
+  IncludedMapsList:
+  - SID: Celeste/0-Intro
+    Mode: Normal
+  - SID: Celeste/1-ForsakenCity
+    Mode: Normal
+  - SID: Celeste/1-ForsakenCity
+    Mode: BSide
+  - SID: Celeste/1-ForsakenCity
+    Mode: CSide
+  - SID: Celeste/2-OldSite
+    Mode: Normal
+  - SID: Celeste/2-OldSite
+    Mode: BSide
+  - SID: Celeste/2-OldSite
+    Mode: CSide
+  - SID: Celeste/3-CelestialResort
+    Mode: Normal
+  - SID: Celeste/3-CelestialResort
+    Mode: BSide
+  - SID: Celeste/3-CelestialResort
+    Mode: CSide
+  - SID: Celeste/4-GoldenRidge
+    Mode: Normal
+  - SID: Celeste/4-GoldenRidge
+    Mode: BSide
+  - SID: Celeste/4-GoldenRidge
+    Mode: CSide
+  - SID: Celeste/5-MirrorTemple
+    Mode: Normal
+  - SID: Celeste/5-MirrorTemple
+    Mode: BSide
+  - SID: Celeste/5-MirrorTemple
+    Mode: CSide
+  - SID: Celeste/6-Reflection
+    Mode: Normal
+  - SID: Celeste/6-Reflection
+    Mode: BSide
+  - SID: Celeste/6-Reflection
+    Mode: CSide
+  - SID: Celeste/7-Summit
+    Mode: Normal
+  - SID: Celeste/7-Summit
+    Mode: BSide
+  - SID: Celeste/7-Summit
+    Mode: CSide
+  - SID: Celeste/8-Epilogue
+    Mode: Normal
+  - SID: Celeste/9-Core
+    Mode: Normal
+  - SID: Celeste/9-Core
+    Mode: BSide
+  - SID: Celeste/9-Core
+    Mode: CSide
+  - SID: Celeste/LostLevels
+    Mode: Normal
+FastMenu: false
+LazyLoading: true

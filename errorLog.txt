@@ -1,8 +1,8 @@
 Celeste Error Log
 ==========================================
 
-Ver 1.4.0.0-fna [Everest: 3164-azure-ee578]
-01/03/2022 21:58:51
+Ver 1.4.0.0-fna [Everest: 3205-azure-ec20c]
+01/29/2022 17:07:37
 Yo, I heard you like Everest so I put Everest in your Everest so you can Ever Rest while you Ever Rest.
 
 In other words: Celeste has encountered a catastrophic failure.
@@ -12,8 +12,8 @@ Please join the Celeste Discord server and drag and drop your log.txt into #modd
 https://discord.gg/6qjaePQ
 
 
-Ver 1.4.0.0-fna [Everest: 3164-azure-ee578]
-01/03/2022 12:22:46
+Ver 1.4.0.0-fna [Everest: 3205-azure-ec20c]
+01/29/2022 17:07:37
 Yo, I heard you like Everest so I put Everest in your Everest so you can Ever Rest while you Ever Rest.
 
 In other words: Celeste has encountered a catastrophic failure.
@@ -23,8 +23,8 @@ Please join the Celeste Discord server and drag and drop your log.txt into #modd
 https://discord.gg/6qjaePQ
 
 
-Ver 1.4.0.0-fna [Everest: 3164-azure-ee578]
-01/03/2022 12:17:06
+Ver 1.4.0.0-fna [Everest: 3205-azure-ec20c]
+01/29/2022 17:07:37
 Yo, I heard you like Everest so I put Everest in your Everest so you can Ever Rest while you Ever Rest.
 
 In other words: Celeste has encountered a catastrophic failure.
@@ -34,8 +34,8 @@ Please join the Celeste Discord server and drag and drop your log.txt into #modd
 https://discord.gg/6qjaePQ
 
 
-Ver 1.4.0.0-fna [Everest: 3164-azure-ee578]
-01/03/2022 12:17:06
+Ver 1.4.0.0-fna [Everest: 3205-azure-ec20c]
+01/29/2022 17:07:37
 Yo, I heard you like Everest so I put Everest in your Everest so you can Ever Rest while you Ever Rest.
 
 In other words: Celeste has encountered a catastrophic failure.
@@ -45,8 +45,8 @@ Please join the Celeste Discord server and drag and drop your log.txt into #modd
 https://discord.gg/6qjaePQ
 
 
-Ver 1.4.0.0-fna [Everest: 3164-azure-ee578]
-01/03/2022 12:17:06
+Ver 1.4.0.0-fna [Everest: 3205-azure-ec20c]
+01/29/2022 17:07:36
 Yo, I heard you like Everest so I put Everest in your Everest so you can Ever Rest while you Ever Rest.
 
 In other words: Celeste has encountered a catastrophic failure.
@@ -56,8 +56,8 @@ Please join the Celeste Discord server and drag and drop your log.txt into #modd
 https://discord.gg/6qjaePQ
 
 
-Ver 1.4.0.0-fna [Everest: 3164-azure-ee578]
-01/03/2022 12:17:06
+Ver 1.4.0.0-fna [Everest: 3205-azure-ec20c]
+01/29/2022 17:07:36
 Yo, I heard you like Everest so I put Everest in your Everest so you can Ever Rest while you Ever Rest.
 
 In other words: Celeste has encountered a catastrophic failure.
@@ -65,58 +65,6 @@ In other words: Celeste has encountered a catastrophic failure.
 IF YOU WANT TO HELP US FIX THIS:
 Please join the Celeste Discord server and drag and drop your log.txt into #modding_help.
 https://discord.gg/6qjaePQ
-
-
-Ver 1.4.0.0-fna [Everest: 3164-azure-ee578]
-12/28/2021 20:10:13
-Yo, I heard you like Everest so I put Everest in your Everest so you can Ever Rest while you Ever Rest.
-
-In other words: Celeste has encountered a catastrophic failure.
-
-IF YOU WANT TO HELP US FIX THIS:
-Please join the Celeste Discord server and drag and drop your log.txt into #modding_help.
-https://discord.gg/6qjaePQ
-
-
-Ver 1.4.0.0-fna [Everest: 3164-azure-ee578]
-12/28/2021 17:45:27
-Yo, I heard you like Everest so I put Everest in your Everest so you can Ever Rest while you Ever Rest.
-
-In other words: Celeste has encountered a catastrophic failure.
-
-IF YOU WANT TO HELP US FIX THIS:
-Please join the Celeste Discord server and drag and drop your log.txt into #modding_help.
-https://discord.gg/6qjaePQ
-
-
-Ver 1.4.0.0-fna [Everest: 3164-azure-ee578]
-12/28/2021 17:16:27
-System.NullReferenceException: Object reference not set to an instance of an object
-  at Celeste.AreaDataExt.RestoreASideAreaData (Celeste.AreaData self) [0x00000] in <4a26f9ded6704c87a2f47e66d2d85163>:0 
-  at Celeste.Session..ctor (Celeste.AreaKey area, System.String checkpoint, Celeste.AreaStats oldStats) [0x0000f] in <4a26f9ded6704c87a2f47e66d2d85163>:0 
-  at (wrapper dynamic-method) Celeste.LevelEnter.DMD<Celeste.LevelEnter::Go>(Celeste.Session,bool)
-  at (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Celeste.LevelEnter::Go>?-2114498681(Celeste.Session,bool)
-  at Celeste.Mod.CollabUtils2.UI.ReturnToLobbyHelper.onLevelEnterGo (On.Celeste.LevelEnter+orig_Go orig, Celeste.Session session, System.Boolean fromSaveData) [0x000de] in <73976019d0ea4690976bd83b650b6e4c>:0 
-  at (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Celeste.LevelEnter::Go>?-1127356441(Celeste.Session,bool)
-  at (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Celeste.LevelEnter::Go>?890833131(Celeste.Session,bool)
-  at Celeste.Mod.JungleHelper.Entities.EnforceSkinController.onLevelEnter (On.Celeste.LevelEnter+orig_Go orig, Celeste.Session session, System.Boolean fromSaveData) [0x00008] in <f814e6c08be94d0289aca490df11e487>:0 
-  at (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Celeste.LevelEnter::Go>?-2003035488(Celeste.Session,bool)
-  at Celeste.OuiFileSelectSlot+<>c.<OnContinueSelected>b__64_0 () [0x00000] in <4a26f9ded6704c87a2f47e66d2d85163>:0 
-  at Celeste.ScreenWipe.Update (Monocle.Scene scene) [0x000a0] in <4a26f9ded6704c87a2f47e66d2d85163>:0 
-  at Celeste.FadeWipe.Update (Monocle.Scene scene) [0x00000] in <4a26f9ded6704c87a2f47e66d2d85163>:0 
-  at Monocle.RendererList.Update () [0x00015] in <4a26f9ded6704c87a2f47e66d2d85163>:0 
-  at Monocle.Scene.Update () [0x00019] in <4a26f9ded6704c87a2f47e66d2d85163>:0 
-  at Celeste.Overworld.orig_Update () [0x00115] in <4a26f9ded6704c87a2f47e66d2d85163>:0 
-  at Celeste.Overworld.Update () [0x00010] in <4a26f9ded6704c87a2f47e66d2d85163>:0 
-  at Monocle.Engine.Update (Microsoft.Xna.Framework.GameTime gameTime) [0x00139] in <4a26f9ded6704c87a2f47e66d2d85163>:0 
-  at Celeste.Celeste.Update (Microsoft.Xna.Framework.GameTime gameTime) [0x00036] in <4a26f9ded6704c87a2f47e66d2d85163>:0 
-  at Microsoft.Xna.Framework.Game.Tick () [0x00102] in <6eeb4fc8c61b441fb2d2fd16aa9405a2>:0 
-  at Microsoft.Xna.Framework.Game.RunLoop () [0x00019] in <6eeb4fc8c61b441fb2d2fd16aa9405a2>:0 
-  at Microsoft.Xna.Framework.Game.Run () [0x00032] in <6eeb4fc8c61b441fb2d2fd16aa9405a2>:0 
-  at Monocle.Engine.RunWithLogging () [0x00000] in <4a26f9ded6704c87a2f47e66d2d85163>:0 
-
-
-
 
 
 

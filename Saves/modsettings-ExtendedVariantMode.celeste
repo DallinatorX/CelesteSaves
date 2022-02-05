@@ -1,47 +1,48 @@
 MasterSwitch: true
+AutoResetVariantsOnFirstStartup: false
 OptionsOutOfModOptionsMenuEnabled: true
 SubmenusForEachCategoryEnabled: true
 AutomaticallyResetVariants: true
-Gravity: 10
-FallSpeed: 10
-JumpHeight: 10
-SpeedX: 10
-Stamina: 11
-DashSpeed: 10
+Gravity: 1
+FallSpeed: 1
+JumpHeight: 1
+SpeedX: 1
+Stamina: 110
+DashSpeed: 1
 LegacyDashSpeedBehavior: false
 DashCount: -1
-Friction: 10
-AirFriction: 10
+Friction: 1
+AirFriction: 1
 DisableWallJumping: false
 DisableClimbJumping: false
 JumpCount: 1
 RefillJumpsOnDashRefill: false
 UpsideDown: false
-HyperdashSpeed: 10
-WallBouncingSpeed: 10
-DashLength: 10
+HyperdashSpeed: 1
+WallBouncingSpeed: 1
+DashLength: 1
 ForceDuckOnGround: false
 InvertDashes: false
 InvertGrab: false
 DisableNeutralJumping: false
-ExplodeLaunchSpeed: 10
+ExplodeLaunchSpeed: 1
 DisableSuperBoosts: false
 BadelineChasersEverywhere: false
 ChaserCount: 1
 AffectExistingChasers: false
-BadelineLag: 0
-DelayBetweenBadelines: 4
+BadelineLag: 1.54999995
+DelayBetweenBadelines: 0.400000006
 RegularHiccups: 0
-HiccupStrength: 10
+HiccupStrength: 1
 RoomLighting: -1
 RoomBloom: -1
 OshiroEverywhere: false
 OshiroCount: 1
 ReverseOshiroCount: 0
 DisableOshiroSlowdown: false
-WindEverywhere: 0
+WindEverywhere: Default
 SnowballsEverywhere: false
-SnowballDelay: 8
+SnowballDelay: 0.800000012
 AddSeekers: 0
 DisableSeekerSlowdown: false
 TheoCrystalsEverywhere: false
@@ -49,7 +50,7 @@ AllowThrowingTheoOffscreen: false
 AllowLeavingTheoBehind: false
 HeldDash: false
 AllStrawberriesAreGoldens: false
-DashRefillOnGroundState: 0
+DashRefillOnGroundState: DEFAULT
 DontRefillStaminaOnGround: false
 EverythingIsUnderwater: false
 BadelineBossesEverywhere: false
@@ -58,43 +59,51 @@ ChangePatternsOfExistingBosses: false
 FirstBadelineSpawnRandom: false
 BadelineBossCount: 1
 BadelineBossNodeCount: 1
-GameSpeed: 10
-ColorGrading: -1
-ModColorGrade: 
+GameSpeed: 1
+ColorGrading: ''
 JellyfishEverywhere: 0
 RisingLavaEverywhere: false
-RisingLavaSpeed: 10
+RisingLavaSpeed: 1
 InvertHorizontalControls: false
 InvertVerticalControls: false
 BounceEverywhere: false
 GlitchEffect: -1
-SuperdashSteeringSpeed: 10
-ScreenShakeIntensity: 10
+SuperdashSteeringSpeed: 1
+ScreenShakeIntensity: 1
 AnxietyEffect: -1
 BlurLevel: 0
 BackgroundBlurLevel: 0
-ZoomLevel: 10
-DashDirection: 0
-BackgroundBrightness: 10
-ForegroundEffectOpacity: 10
+ZoomLevel: 1
+AllowedDashDirections:
+- - true
+  - true
+  - true
+- - true
+  - true
+  - true
+- - true
+  - true
+  - true
+BackgroundBrightness: 1
+ForegroundEffectOpacity: 1
 DisableMadelineSpotlight: false
 MadelineIsSilhouette: false
 MadelineHasPonytail: false
 DashTrailAllTheTime: false
-MadelineBackpackMode: 0
+MadelineBackpackMode: Default
 DisableClimbingUpOrDown: false
-SwimmingSpeed: 10
-BoostMultiplier: 10
+SwimmingSpeed: 1
+BoostMultiplier: 1
 FriendlyBadelineFollower: false
 DisableRefillsOnScreenTransition: false
 RestoreDashesOnRespawn: false
 DisplayDashCount: false
 EveryJumpIsUltra: false
-CoyoteTime: 10
+CoyoteTime: 1
 NoFreezeFrames: false
 PreserveExtraDashesUnderwater: true
 AlwaysInvisible: false
-DisplaySpeedometer: 0
+DisplaySpeedometer: DISABLED
 ChangeVariantsRandomly: false
 VariantSet: 3
 ChangeVariantsInterval: 0

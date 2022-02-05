@@ -11,176 +11,50 @@ Facing: Right
 dashCount: 0
 staminaCount: 110
 ShowIndicator: true
-PreviousLevel: trlt-08c
+PreviousLevel: beg_heart_04
 CollectedCoins: {}
 lockCamera: 0
 LevelInfoCache:
   FILLER_01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER_01b:
+  FILLER_02:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  FILLER_03:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  FILLER_04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
   FILLER_05:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER_08c:
+  FILLER_06:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER_09:
+  beg_heart_00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER_15:
+  beg_heart_01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER_15smol:
+  beg_heart_02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER_17:
+  beg_heart_03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER_19:
+  beg_heart_04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER_21:
+  beg_heart_05:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER_21b:
+  beg_heart_06:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER_END03:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-00:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-00a:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-01:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-01a:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-01b:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-02:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-02a:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-03:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-03b:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-04:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-04a:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-05:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-06:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-07:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-07b:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-08:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-08a:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-08b:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-08c:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-09:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-10:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-11:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-12:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-12b:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-12c:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-13:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-14:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-15:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-15a:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-15b:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-15c:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-16:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-17:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-17a:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-18:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-19:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-20:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-21:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-21b:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-22:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-end01:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt-end01b:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt_end02:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  trlt_end03:
+  beg_heart_07:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
 DebrisLimiter: 0

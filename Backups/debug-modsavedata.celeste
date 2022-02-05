@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<ModSaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LevelSets>
+    <LevelSetStats Name="Celeste">
+      <Areas />
+      <Poem />
+      <UnlockedAreas>10</UnlockedAreas>
+      <TotalStrawberries>0</TotalStrawberries>
+    </LevelSetStats>
+    <LevelSetStats Name="randomizer">
+      <Areas>
+        <AreaStats ID="11" Cassette="false" SID="randomizer/gkq4g1_0_284285529">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="42" TimePlayed="4070310000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+      </Areas>
+      <Poem />
+      <UnlockedAreas>0</UnlockedAreas>
+      <TotalStrawberries>2</TotalStrawberries>
+    </LevelSetStats>
+  </LevelSets>
+  <LevelSetRecycleBin />
+  <LastArea_Safe ID="11" Mode="Normal" SID="randomizer/gkq4g1_0_284285529" />
+  <CurrentSession_Safe Level="Celeste/3-CelestialResort/B/08/14" Time="4038010000" StartedFromBeginning="true" Deaths="42" Dashes="67" DashesAtLevelStart="67" DeathsInCurrentLevel="16" InArea="false" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+    <Area ID="11" Mode="Normal" SID="randomizer/gkq4g1_0_284285529" />
+    <RespawnPoint>
+      <X>5304</X>
+      <Y>112</Y>
+    </RespawnPoint>
+    <Audio>
+      <Music Event="event:/music/lvl2/beginning">
+        <Parameters>
+          <MEP Key="layer1" Value="1" />
+          <MEP Key="layer2" Value="1" />
+          <MEP Key="layer3" Value="1" />
+          <MEP Key="layer4" Value="1" />
+          <MEP Key="layer6" Value="0" />
+          <MEP Key="progress" Value="2" />
+        </Parameters>
+      </Music>
+      <Ambience Event="event:/env/amb/03_interior">
+        <Parameters>
+          <MEP Key="progress" Value="2" />
+        </Parameters>
+      </Ambience>
+    </Audio>
+    <Inventory>
+      <Dashes>1</Dashes>
+      <DreamDash>true</DreamDash>
+      <Backpack>false</Backpack>
+      <NoRefills>false</NoRefills>
+    </Inventory>
+    <Flags>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:345</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:343</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:342</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:339</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:170</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:341</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:237</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:238</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:194</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:162</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:193</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:174</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:187</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:192</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:176</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:208</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:250</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:236</string>
+      <string>dashSwitch_Celeste/5-MirrorTemple/A/d-15/6:218</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:239</string>
+      <string>torch_Celeste/5-MirrorTemple/A/d-15/6:227</string>
+    </Flags>
+    <LevelFlags>
+      <string>Celeste/5-MirrorTemple/A/a-02/0</string>
+      <string>Celeste/3-CelestialResort/A/10-c/1</string>
+      <string>Celeste/6-Reflection/A/13/2</string>
+      <string>Celeste/3-CelestialResort/A/01-b/3</string>
+      <string>Celeste/3-CelestialResort/A/00-a/4</string>
+      <string>Celeste/6-Reflection/A/04/5</string>
+      <string>Celeste/5-MirrorTemple/A/d-15/6</string>
+      <string>Celeste/9-Core/A/b-00/7</string>
+      <string>Celeste/5-MirrorTemple/B/b-05/8</string>
+      <string>Celeste/2-OldSite/A/d4/9</string>
+      <string>Celeste/LostLevels/A/e-05b/10</string>
+      <string>Celeste/7-Summit/A/a-03/11</string>
+      <string>Celeste/1-ForsakenCity/A/10z/12</string>
+      <string>Celeste/6-Reflection/A/20/13</string>
+      <string>Celeste/3-CelestialResort/B/08/14</string>
+    </LevelFlags>
+    <Strawberries />
+    <DoNotLoad>
+      <EntityID Key="Celeste/6-Reflection/A/13/2:685" />
+      <EntityID Key="Celeste/6-Reflection/A/13/2:687" />
+      <EntityID Key="Celeste/6-Reflection/A/13/2:692" />
+      <EntityID Key="Celeste/6-Reflection/A/13/2:691" />
+      <EntityID Key="Celeste/6-Reflection/A/13/2:688" />
+      <EntityID Key="Celeste/6-Reflection/A/13/2:690" />
+      <EntityID Key="Celeste/5-MirrorTemple/A/d-15/6:180" />
+    </DoNotLoad>
+    <Keys />
+    <Counters />
+    <SummitGems>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </SummitGems>
+    <OldStats ID="11" Cassette="false" SID="randomizer/gkq4g1_0_284285529">
+      <Modes>
+        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+          <Strawberries />
+          <Checkpoints />
+        </AreaModeStats>
+        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+          <Strawberries />
+          <Checkpoints />
+        </AreaModeStats>
+        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+          <Strawberries />
+          <Checkpoints />
+        </AreaModeStats>
+      </Modes>
+    </OldStats>
+    <UnlockedCSide>false</UnlockedCSide>
+    <FurthestSeenLevel>Celeste/3-CelestialResort/B/08/14</FurthestSeenLevel>
+    <BeatBestTime>false</BeatBestTime>
+  </CurrentSession_Safe>
+</ModSaveData>
